@@ -7,6 +7,12 @@ This project will generate your own personalized portfolio, using the npm "Inqui
 
 To view this application, please clone the repository to your local device and then follow the question promot. Once you are done, just open the HTML and your own personal portfolio will be generated! 
 
+## GitHub Link 
+https://github.com/camryngoins/portfolio-generator
+
 ## Screenshot
 
-## GitHub Link 
+![portfolio-generator](https://user-images.githubusercontent.com/96854206/161347840-6dd70e88-22bf-4f1f-abab-80dac8dd3ed0.png)
+
+
+
